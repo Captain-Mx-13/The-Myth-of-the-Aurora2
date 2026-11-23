@@ -1,7 +1,23 @@
 html, body {
   margin: 0;
   padding: 0;
+  background-color:black; 
 }
 canvas {
   display: block;
+  margin: auto;
+}
+
+h1{
+  text-align: center;
+  color:azure;
+  font-weight: 2000;
+}
+
+p{
+  text-align: center;
+  padding-left: 20%; 
+  padding-right: 20%; 
+  color:lightgrey;
+  font-weight: 500;
 }
