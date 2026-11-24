@@ -1,0 +1,36 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color:black; 
+}
+canvas {
+  display: block;
+  margin: auto;
+}
+
+h1{
+  font-family: 'Stalinist One', sans-serif;
+  text-align: left;
+  color:azure;
+  padding-top: 5%;
+  padding-left: 10%;
+  font-size: xx-large;
+}
+
+p{
+  font-family: 'Quantico', sans-serif;
+  text-align: center;
+  padding-top: 15px;
+  padding-left: 20%; 
+  padding-right: 20%; 
+  color:lightgrey;
+  font-size: large;
+}
+
+a{
+  font-family: 'Quantico', sans-serif;
+  color:azure;
+  padding-left: 10%; 
+  font-weight: 700;
+  font-size:xx-large;
+}
