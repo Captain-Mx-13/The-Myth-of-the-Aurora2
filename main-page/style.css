@@ -34,3 +34,12 @@ a{
   font-weight: 700;
   font-size:xx-large;
 }
+
+a{
+  font-family: 'Quantico', sans-serif;
+  color:azure;
+  padding-top: 20%;
+  padding-left: 10%; 
+  font-weight: 700;
+  font-size:xx-large;
+}
