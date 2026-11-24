@@ -1,7 +1,8 @@
 function setup() {
-  createCanvas(400, 400);
+  //canvas=createCanvas(1100, 600);
+  //canvas.parent("sketch-holder");
 }
 
 function draw() {
-  background(0);
+  background(200);
 }
