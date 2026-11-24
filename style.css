@@ -9,15 +9,27 @@ canvas {
 }
 
 h1{
+  font-family: 'Stalinist One', sans-serif;
   text-align: center;
   color:azure;
-  font-weight: 2000;
+  padding-top: 5%;
+  font-size: xx-large;
 }
 
 p{
+  font-family: 'Quantico', sans-serif;
   text-align: center;
+  padding-top: 15px;
   padding-left: 20%; 
   padding-right: 20%; 
   color:lightgrey;
-  font-weight: 500;
+  font-size: large;
+}
+
+a{
+  font-family: 'Quantico', sans-serif;
+  color:azure;
+  padding-left: 45%; 
+  font-weight: 700;
+  font-size:large;
 }
